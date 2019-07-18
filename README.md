@@ -22,7 +22,7 @@ Also, it has the cutest menu bar icon:
 
 ## Download
 
-Download the ZIP file from the [releases page](https://github.com/fdb/textbutler/releases).
+Download the ZIP file from the [releases page](https://github.com/qimingfang/textbutler/releases).
 
 **The releases are currently unsigned. Once downloaded, right-click the app and choose "Open".**
 
